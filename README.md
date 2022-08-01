@@ -1,8 +1,16 @@
 # Note It!
+https://note-it-1.netlify.app/
+Angular based project with CRUD functionalities.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+
+## Features
+- Create your note giving it a title and a body
+- Edit your notes
+- Delete the notes not required
+- Search for the notes 
 
 ## Development server
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
